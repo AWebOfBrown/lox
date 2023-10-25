@@ -1,4 +1,0 @@
-var breakfast = "sausage";
-/* hello this is a comment */
-print breakfast;
-11.10

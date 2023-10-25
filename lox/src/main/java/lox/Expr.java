@@ -1,4 +1,4 @@
-package lox.src.main.java;
+package lox;
 
 abstract class Expr {
     static class Binary extends Expr {
